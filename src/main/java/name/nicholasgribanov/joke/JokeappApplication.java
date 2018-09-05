@@ -1,4 +1,4 @@
-package name.nicholasgribanov.joke.jokeapp;
+package name.nicholasgribanov.joke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package name.nicholasgribanov.joke.jokeapp;
+package name.nicholasgribanov.joke;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
